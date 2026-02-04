@@ -1,0 +1,1 @@
+{"name":"Local: samir","url":"d:\\samir  used this file\\projects\\my-second-github\\samir.cpp","tests":[{"id":1770210211046,"input":"3\n2\n1 0\n3\n0 3 0\n6\n1 0 5 0 6 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\samir  used this file\\projects\\my-second-github\\samir.cpp","group":"local","local":true}
